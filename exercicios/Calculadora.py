@@ -50,3 +50,5 @@ while loop == 1:
     else:
         print('Calculadora encerrada...')
         break
+
+print('Fim do programa')
